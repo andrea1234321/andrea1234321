@@ -1,5 +1,5 @@
-![ballet1](https://github.com/andrea1234321/andrea1234321/assets/126596039/941b0e55-261b-467f-b393-48afe40d8250)
 
+![ballet1](https://github.com/andrea1234321/andrea1234321/assets/126596039/a0e89d8a-dd8c-46ea-a069-a028c96bb385)
 
 # Welcome to my Github!
 I’m Andrea Bances-Monard, professionally I’m a full-stack software Engineer, but personally, I’m a wife, a dog mom, a former ballerina, a chemist, and overall a social butterfly. I have a very creative and analytical mind which has only enhanced my ability to learn web development. I love problem-solving; from a simple sudoku puzzle to a complex Python/JS code, I’m all up for a good challenge. 
